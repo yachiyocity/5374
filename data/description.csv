@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
 不燃ごみ,,,img/moyasanai02.svg,#733b96
-資源物,ビン・缶・ペットボトル,,img/shigen02.svg,#77ae1f
-資源物,紙・布類,,img/shigen02.svg,#77ae1f
+資源物（ビン・缶・ペットボトル）,,,img/shigen02.svg,#77ae1f
+資源物（紙・布類）,,,img/shigen02.svg,#77ae1f
 可燃ごみ,,,img/moyasu02.svg,#ea3b13
 有害ごみ,,,img/bin02.svg,#2dc7aa
